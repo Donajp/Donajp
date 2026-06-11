@@ -1,10 +1,9 @@
-# Ola, eu soa a Dona 👋
+# Ola, eu sou a Dona 👋
 
 ### sobre mim
 
 - 🎓 Estudante de **Ciência da Computação** (atualmente no 3º semestre).
 - 🎯 Em busca da minha primeira oportunidade de **estágio** na área de tecnologia.
-- ☁️ Tenho grande interesse na área de infraestrutura, incluindo **Cloud Computing** (especialmente Oracle Cloud Infrastructure - OCI), Arquitetura de Redes e Automação de Dados.
 - 🚀 Construindo meu portfólio com projetos práticos de algoritmos e estruturas de dados.
 
   ### 🛠️ Tecnologias e Ferramentas
