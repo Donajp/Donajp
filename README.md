@@ -2,7 +2,7 @@
 
 ### sobre mim
 
-- 🎓 Estudante de **Ciência da Computação** (atualmente no 3º semestre).
+- 🎓 Estudante de **Ciência da Computação** (atualmente no 4º semestre).
 - 🎯 Em busca da minha primeira oportunidade de **estágio** na área de tecnologia.
 - 🚀 Construindo meu portfólio com projetos práticos de algoritmos e estruturas de dados.
 
